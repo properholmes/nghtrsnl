@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @nghtrsnl
-- 👀 I’m interested in Music
+- 👋 Hi, I’m @properholmes
+- 🎹 I’m interested in Music
 - 🌱 I’m currently learning HTML.. CSS.. JS (da basics!)
-- 💞️ I’m looking to collaborate on anything music related.
+- 🎧 I’m looking to collaborate on anything music related.
 - 📫 How to reach me ... @properholmes insta|fb
 
 <!---
